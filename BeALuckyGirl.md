@@ -1,25 +1,29 @@
-    “Things may come to those who wait… but only the things left behind by those who hustle.” - Abraham Lincoln
+```
+“Things may come to those who wait… but only the things left behind by those who hustle.” - Abraham Lincoln
+```
+
 　　If only I was as lucky as he. Or she. Or as so-and-so. Have you heard this excuse? (Have you used it?)
 　　But, for those waiting to get lucky… it can be a long wait. Sometimes forever. Do you sit around and wait to get lucky? Or do you go out and make your own luck?
 　　I am always amazed at those who think they are going to drift along until everything just falls into place for them. It’s just not going to happen.
 　　You can sit around waiting for the world to bring you your dreams on a silver platter. Or you can go out and get them. And do them yourself.
 　　Take a close look at those that you consider successful. Did they just wait until it happened? Or did they work long and hard to get where they are?
 　　Being lucky is about doing, and that being said, you can increase your luck. Here are just a few ways to increase your luck:
-　　1. Be Early
-　　Being early breeds serendipity. Really. When you are early for things, even meetings and appointments, magical things tend to happen. That is when chance happens.
-　　2. Finish Before Deadlines
-　　Similar to being early, is finishing tasks or projects ahead of schedule. When there is adequate time to review and deliver right, is when extraordinary results occur.
-　　3. Go Outside Your Domain
-　　We all tend to stay in our comfort zones. It is when you stray outside your normal elements that you often discover new luck. So, get out there and go beyond your normal boundaries.
-　　4. Raise the Bar
-　　Amazing results happen when you aim higher than you normally do. You will never reach new levels of achievements if you don’t reach for them. Stretchyourself and your goals.
-　　5. Don’t Follow the Rules
-　　Rules were meant to be broken. Or rather maybe they are “just guidelines.” This is not about doing anything crazy or unethical, it is about challenging the status quo and the norm. Don’t be normal when it comes to the rules.
-　　6. Be Prepared
-　　Being ready means you are ready to take advantage of new opportunities. You don’t want to miss or have to turn down a new opportunity because you were too busy catching up.
-　　7. Do One More Thing
-　　Those who are lucky do more than those who are not. Make it a habit to always “do one more thing.” Whether it is finishing a job right, or one last task at the end of a long day. Do it every day for a year and you will have taken 365 more steps towards your goals than those who don’t give the extra effort.
-　　It is all about hard work. Want to be lucky? Make your own. Get out there and do instead of waiting for it to come to you. Being lucky is easy, but it takes a lot of hard work.
+
+1. Be Early
+   Being early breeds serendipity. Really. When you are early for things, even meetings and appointments, magical things tend to happen. That is when chance happens.
+2. Finish Before Deadlines
+   Similar to being early, is finishing tasks or projects ahead of schedule. When there is adequate time to review and deliver right, is when extraordinary results occur.
+3. Go Outside Your Domain
+   We all tend to stay in our comfort zones. It is when you stray outside your normal elements that you often discover new luck. So, get out there and go beyond your normal boundaries.
+4. Raise the Bar
+   Amazing results happen when you aim higher than you normally do. You will never reach new levels of achievements if you don’t reach for them. Stretchyourself and your goals.
+5. Don’t Follow the Rules
+   Rules were meant to be broken. Or rather maybe they are “just guidelines.” This is not about doing anything crazy or unethical, it is about challenging the status quo and the norm. Don’t be normal when it comes to the rules.
+6. Be Prepared
+   Being ready means you are ready to take advantage of new opportunities. You don’t want to miss or have to turn down a new opportunity because you were too busy catching up.
+7. Do One More Thing
+   Those who are lucky do more than those who are not. Make it a habit to always “do one more thing.” Whether it is finishing a job right, or one last task at the end of a long day. Do it every day for a year and you will have taken 365 more steps towards your goals than those who don’t give the extra effort.
+   　　It is all about hard work. Want to be lucky? Make your own. Get out there and do instead of waiting for it to come to you. Being lucky is easy, but it takes a lot of hard work.
 
 　　林肯说过：“原地等待的人也许会有所收获，但收获的都是那些努力的人剩下的东西。”
 　　如果我像他或者她或者某某那样幸运就好了。 你听到过这种借口吗？（你也用过这种借口吗？）
