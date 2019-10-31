@@ -1,5 +1,5 @@
 # SpokenTopic
-    “Things may come to those who wait… but only the things left behind by those who hustle.” - Abraham Lincoln
+        “Things may come to those who wait… but only the things left behind by those who hustle.” - Abraham Lincoln
 　　If only I was as lucky as he. Or she. Or as so-and-so. Have you heard this excuse? (Have you used it?)
 　　But, for those waiting to get lucky… it can be a long wait. Sometimes forever. Do you sit around and wait to get lucky? Or do you go out and make your own luck?
 　　I am always amazed at those who think they are going to drift along until everything just falls into place for them. It’s just not going to happen.
