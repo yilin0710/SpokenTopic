@@ -1,4 +1,7 @@
-    “Things may come to those who wait… but only the things left behind by those who hustle.” - Abraham Lincoln
+```
+“Things may come to those who wait… but only the things left behind by those who hustle.” - Abraham Lincoln
+```
+
 　　If only I was as lucky as he. Or she. Or as so-and-so. Have you heard this excuse? (Have you used it?)
 
 　　But, for those waiting to get lucky… it can be a long wait. Sometimes forever. Do you sit around and wait to get lucky? Or do you go out and make your own luck?
@@ -13,44 +16,44 @@
 
 
 
-　　1. Be Early-
-　　Being early breeds serendipity. Really. When you are early for things, even meetings and appointments, magical things tend to happen. That is when chance happens.
-　　
-　　
-　　
-  2. Finish Before Deadlines-
-       Similar to being early, is finishing tasks or projects ahead of schedule. When there is adequate time to review and deliver right, is when extraordinary results occur.
+1. Be Early-
+   Being early breeds serendipity. Really. When you are early for things, even meetings and appointments, magical things tend to happen. That is when chance happens.
 
-       
+   
 
-  3. Go Outside Your Domain-
-       We all tend to stay in our comfort zones. It is when you stray outside your normal elements that you often discover new luck. So, get out there and go beyond your normal boundaries.
+2. Finish Before Deadlines-
+   Similar to being early, is finishing tasks or projects ahead of schedule. When there is adequate time to review and deliver right, is when extraordinary results occur.
 
-       
+   
 
-  4. Raise the Bar-
-       Amazing results happen when you aim higher than you normally do. You will never reach new levels of achievements if you don’t reach for them. Stretch yourself and your goals.
+3. Go Outside Your Domain-
+   We all tend to stay in our comfort zones. It is when you stray outside your normal elements that you often discover new luck. So, get out there and go beyond your normal boundaries.
 
-       
+   
 
-  5. Don’t Follow the Rules-
-       Rules were meant to be broken. Or rather maybe they are “just guidelines.” This is not about doing anything crazy or unethical, it is about challenging the status quo and the norm. Don’t be normal when it comes to the rules.
+4. Raise the Bar-
+   Amazing results happen when you aim higher than you normally do. You will never reach new levels of achievements if you don’t reach for them. Stretch yourself and your goals.
 
-       
+   
 
-  6. Be Prepared-
-       Being ready means you are ready to take advantage of new opportunities. You don’t want to miss or have to turn down a new opportunity because you were too busy catching up.
+5. Don’t Follow the Rules-
+   Rules were meant to be broken. Or rather maybe they are “just guidelines.” This is not about doing anything crazy or unethical, it is about challenging the status quo and the norm. Don’t be normal when it comes to the rules.
 
-       
+   
 
-  7. Do One More Thing-
-       Those who are lucky do more than those who are not. Make it a habit to always “do one more thing.” Whether it is finishing a job right, or one last task at the end of a long day. Do it every day for a year and you will have taken 365 more steps towards your goals than those who don’t give the extra effort.
+6. Be Prepared-
+   Being ready means you are ready to take advantage of new opportunities. You don’t want to miss or have to turn down a new opportunity because you were too busy catching up.
 
-       
+   
 
-       It is all about hard work. Want to be lucky? Make your own. Get out there and do instead of waiting for it to come to you. Being lucky is easy, but it takes a lot of hard work.
+7. Do One More Thing-
+   Those who are lucky do more than those who are not. Make it a habit to always “do one more thing.” Whether it is finishing a job right, or one last task at the end of a long day. Do it every day for a year and you will have taken 365 more steps towards your goals than those who don’t give the extra effort.
 
-       
+   
+
+   It is all about hard work. Want to be lucky? Make your own. Get out there and do instead of waiting for it to come to you. Being lucky is easy, but it takes a lot of hard work.
+
+   
 
 　　林肯说过：“原地等待的人也许会有所收获，但收获的都是那些努力的人剩下的东西。”
 
